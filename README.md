@@ -1,11 +1,13 @@
-## About Me
-👋 Hi, I'm Mansi Patel, a current Master of Applied Computing student at the University of Windsor. 
-I specialize in data analysis, SQL, and frontend development in Android applications. 
-Passionate about transforming data into actionable insights and creating user-friendly applications.
+👩🏻‍💻 Master of Applied Computing student at the University of Windsor
 
-- 📊 Data Analyst | 💻 Software Developer | 🚀 Python & SQL Enthusiast
-- 🌱 Currently learning advanced data analysis techniques and software development.
-- 🤝 Open to collaborating on data science and software development projects.
-- ⚡ Fun fact: I love hiking and exploring new technologies!
+💻 Software Developer | 🚀 Data Scientist Enthusiast
 
-📫 How to reach me: patel9l9@uwindsor.ca | [LinkedIn](https://www.linkedin.com/in/mansi-patel-3012)
+🔭 Specialize in Data Analysis, and Frontend development in Android applications
+
+🌱 Passionate about transforming data into actionable insights and creating user-friendly applications
+
+🤝 Open to Internship / Co-op opportunity [Jan 2025]
+
+⚡ Fun fact: Love Astronomy and eager to apply my tech skills to space-related projects  
+
+📫 How to reach me: patel9l9@uwindsor.ca | [LinkedIn] (https://www.linkedin.com/in/mansi-patel-3012)

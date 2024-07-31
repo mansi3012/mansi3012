@@ -10,4 +10,6 @@
 
 ⚡ Fun fact: Love Astronomy and eager to apply my tech skills to space-related projects  
 
-📫 How to reach me: patel9l9@uwindsor.ca | [LinkedIn] (https://www.linkedin.com/in/mansi-patel-3012)
+📫 How to reach me:
+[![Email](https://img.shields.io/badge/Email-patel9l9@uwindsor.ca-red?style=for-the-badge&logo=gmail)](mailto:patel9l9@uwindsor.ca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mansi-patel-3012)

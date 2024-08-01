@@ -2,13 +2,13 @@
 
 💻 Software Developer | 🚀 Data Scientist Enthusiast
 
-🔭 Specialize in Data Analysis, and Frontend development in Android applications
+🔭 Specializing in Data Analysis and Android Frontend Development
 
-🌱 Passionate about transforming data into actionable insights and creating user-friendly applications
+🌱 Passionate about turning data into insights and crafting user-friendly apps
 
-🤝 Open to Internship / Co-op opportunity [Jan 2025]
+🤝 Seeking Internship/Co-op opportunities starting Jan 2025
 
-🌌 Fun fact: Love Astronomy and eager to apply my tech skills to space-related projects  
+🌌 Fun fact: Astronomy lover with a knack for space
 
 
 

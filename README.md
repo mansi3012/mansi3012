@@ -20,6 +20,6 @@
 
 
 ## 📫 How to reach me:
-[![LinkedIn](https://github.com/mansi3012/your-repository-name/blob/main/images/linkedin.png)](https://www.linkedin.com/in/mansi-patel-3012)
+![LinkedIn](https://www.linkedin.com/in/mansi-patel-3012)
 
 

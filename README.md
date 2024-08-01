@@ -20,6 +20,7 @@
 
 
 ## 📫 How to reach me:
+patel9l9@uwindsor.ca
 [LinkedIn](https://www.linkedin.com/in/mansi-patel-3012)
-[Email](patel9l9@uwindsor.ca)
+
 

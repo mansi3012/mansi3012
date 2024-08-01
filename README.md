@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8ce11841-3a32-4fee-8a8c-3eb8d2436b1e)👩🏻‍💻 Master of Applied Computing student at the University of Windsor
+👩🏻‍💻 Master of Applied Computing student at the University of Windsor
 
 💻 Software Developer | 🚀 Data Scientist Enthusiast
 
@@ -20,6 +20,6 @@
 
 
 ## 📫 How to reach me:
-![image](https://github.com/user-attachments/assets/e456b362-e678-4604-933b-6a501591e909) patel9l9@uwindsor.ca
+[![LinkedIn](https://github.com/mansi3012/your-repository-name/blob/main/images/linkedin.png)](https://www.linkedin.com/in/mansi-patel-3012)
 
 

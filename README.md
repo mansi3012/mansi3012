@@ -20,6 +20,6 @@
 
 
 ## 📫 How to reach me:
-![LinkedIn](https://www.linkedin.com/in/mansi-patel-3012)
+[![LinkedIn](https://www.linkedin.com/in/mansi-patel-3012)]
 
 

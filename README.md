@@ -1,4 +1,4 @@
-👩🏻‍💻 Master of Applied Computing student at the University of Windsor
+👩🏻‍🎓 Master of Applied Computing student at the University of Windsor
 
 💻 Software Developer | 🚀 Data Scientist Enthusiast
 

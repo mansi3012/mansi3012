@@ -1,3 +1,5 @@
+🤝 Seeking Internship/Co-op opportunities starting Jan 2025
+
 👩🏻‍🎓 Master of Applied Computing student at the University of Windsor
 
 💻 Software Developer | 🚀 Data Scientist Enthusiast
@@ -5,8 +7,6 @@
 🔭 Specializing in Data Analysis and Android Frontend Development
 
 🌱 Passionate about turning data into insights and crafting user-friendly apps
-
-🤝 Seeking Internship/Co-op opportunities starting Jan 2025
 
 🌌 Fun fact: Astronomy lover with a knack for space
 

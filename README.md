@@ -20,7 +20,7 @@
 - **Operating System**: MS Windows, UNIX, Linux, Ubuntu
 - **Areas of Expertise**: Data Analysis, Software Development, Frontend Development, Database Management, Machine Learning Concepts
 
-## Achievements
+## 🌟Achievements
 
 - Presented the **NutriApp** project on Demo Day in April 2024 at the University of Windsor.
 - Received approval from a Professor to publish a research paper on **Exploring Factors Influencing EV Adoption**.

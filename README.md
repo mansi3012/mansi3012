@@ -1,4 +1,4 @@
-🤝 Seeking Internship/Co-op opportunities starting Jan 2025
+🤝 Seeking Internship/Co-op opportunities starting Winter 2025
 
 👩🏻‍🎓 Master of Applied Computing student at the University of Windsor
 

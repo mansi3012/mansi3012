@@ -2,7 +2,7 @@
 
 👩🏻‍🎓 Master of Applied Computing student at the University of Windsor
 
-💻 Software Developer | 🚀 Data Scientist Enthusiast
+💻 Software Developer | 🚀 Data Science Enthusiast
 
 🔭 Specializing in Data Analysis and Android Frontend Development
 

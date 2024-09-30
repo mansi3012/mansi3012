@@ -14,9 +14,9 @@
 
 ## ⚡Skills
 - **Programming Languages**: C, Python, SQL, Java, Dart, Bash Scripting, HTML, CSS, JavaScript
-- **Technologies**: Android Studio, Flutter, Figma, PowerBI, Jupyter Notebook
+- **Technologies**: Android Studio, Flutter, Figma, PowerBI, Jupyter Notebook, Selenium
 - **Database Management**: MS SQL Server, MySQL, Oracle, MongoDB
-- **Version Control and Management**: GIT, Github, MS Office
+- **Version Control and Management**: GIT, Github, MS Office, JIRA
 - **Operating System**: MS Windows, UNIX, Linux, Ubuntu
 - **Areas of Expertise**: Data Analysis, Software Development, Frontend Development, Database Management, Machine Learning Concepts
 

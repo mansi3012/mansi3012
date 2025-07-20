@@ -25,6 +25,6 @@
 - Received approval from a Professor to publish a research paper on **Exploring Factors Influencing EV Adoption**.
 
 ## 📫 How to reach me:
-patel9l9@uwindsor.ca | [LinkedIn](https://www.linkedin.com/in/mansi-patel-3012)
+mansipatel30.ca@gmail.com | [LinkedIn](https://www.linkedin.com/in/mansi-patel-3012)
 
 

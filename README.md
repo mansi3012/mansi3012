@@ -1,4 +1,4 @@
-🤝 Seeking Internship/Co-op opportunities starting Winter 2025
+🤝 Data Scientist / Data Analyst Co-op at Lumentum
 
 👩🏻‍🎓 Master of Applied Computing student at the University of Windsor
 

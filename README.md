@@ -1,4 +1,4 @@
-🤝 Data Scientist / Data Analyst Co-op at Lumentum
+🤝 Data Scientist / System Software Engineer Intern at Lumentum
 
 👩🏻‍🎓 Master of Applied Computing student at the University of Windsor
 
@@ -13,8 +13,8 @@
 
 
 ## ⚡Skills
-- **Programming Languages**: C, Python, SQL, Java, Dart, Bash Scripting, HTML, CSS, JavaScript
-- **Technologies**: Android Studio, Flutter, Figma, Jupyter Notebook, Selenium
+- **Programming Languages**: C, Python, C#, SQL, Java, Dart, Bash Scripting, HTML, CSS, JavaScript
+- **Technologies**: Android Studio, Flutter, Figma, Jupyter Notebook, Selenium, .NET, 3D Image Processing
 - **Database Management & Analysis**: MS SQL Server, MySQL, Oracle, MongoDB, Tableau
 - **Version Control and Management**: GIT, Github, MS Office, JIRA
 - **Operating System**: MS Windows, UNIX, Linux, Ubuntu
